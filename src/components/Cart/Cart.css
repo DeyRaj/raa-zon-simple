@@ -1,0 +1,14 @@
+.confirm-order{
+    background-color: #fcba03;
+    width: 150px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+
+}
+.cart-info{
+    text-align: center;
+    margin-left: 50px;
+    
+}
